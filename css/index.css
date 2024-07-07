@@ -737,6 +737,7 @@ body {
   background-color: var(--color-secondary-blue);
   position: relative;
   padding: 80px 0;
+  overflow: hidden;
 }
 
 .mailing-section__content {
